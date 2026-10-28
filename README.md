@@ -1,4 +1,4 @@
-# 3D Flow in a Wedge-Plate Junction — CFD vs. Experiment
+# 3D Flow in a Wedge-Plate Junction
 
 Simulation of a pressure-driven three-dimensional turbulent boundary layer in Simcenter STAR-CCM+, compared against the wind-tunnel measurements of Anderson & Eaton (ERCOFTAC Classic Collection, Case 002).
 
